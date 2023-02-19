@@ -41,15 +41,15 @@ def compressor():
         current_time = datetime.now()
         if current_time.second == 0:
             bars[current_time] = dict(bar)
-            bar["open"] = tick.values()[0]
-            bar["high"] = tick.values()[0]
-            bar["low"] = tick.values()[0]
+            bar["open"] = list(tick.values())[0]
+            bar["high"] = list(tick.values())[0]
+            bar["low"] = list(tick.values())[0]
             print(bars)
         else:
             try:
-                bar["high"] = max([bar["high"], tick.values()[0]])
-                bar["low"] = min([bar["low"], tick.values()[0]])
-                bar["close"] = tick.values()[0]
+                bar["high"] = max([bar["high"], list(tick.values())[0]])
+                bar["low"] = min([bar["low"], list(tick.values())[0]])
+                bar["close"] = list(tick.values())[0]
             except:
                 print(str(current_time), ' bar forming...')
 
