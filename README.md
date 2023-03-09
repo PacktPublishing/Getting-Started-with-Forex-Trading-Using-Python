@@ -1,6 +1,6 @@
-#Getting Started with Forex Trading Using Python 
+# Getting Started with Forex Trading Using Python 
 
-<a href="https://www.amazon.com/Getting-Started-Forex-Trading-Python/dp/1804616850/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.amazon.com/Getting-Started-Forex-Trading-Python/dp/1804616850/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135"><img src="https://m.media-amazon.com/images/I/61zcHnCuczL.jpg" alt="" height="256px" align="right"></a>
 
 This is the code repository for [Getting Started with Forex Trading Using Python](https://www.amazon.com/Getting-Started-Forex-Trading-Python/dp/1804616850/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=&utm_source=github&utm_medium=repository&utm_campaign=9781801810135), published by Packt.
 
@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 * Market taker/maker [[Packt]](https://www.packtpub.com/product/developing-high-frequency-trading-systems/9781803242811?utm_source=github&utm_medium=repository&utm_campaign=9781803242811) [[Amazon]](https://www.amazon.com/dp/1803242817)
 
 ## Get to Know the Author
-**Alex Krishtop **
+** Alex Krishtop **
 is a quantitative trader and researcher with 20 years of experience in developing automated trading solutions. He is currently the head of trading and research at Edgesense Technologies and CTO at ForexVox Ltd. He develops market models and trading algos for FX, commodities, and crypto. He was one of the first traders who started to use Python as the ultimate environment for quantitative trading and suggested a few approaches to developing trading apps that, today, have become standard among many quant traders. He has worked as a director of education with the Algorithmic Traders Association where he developed an exhaustive course in systematic and algo trading which covers both worlds of quantitative models and discretionary approaches
 
 
